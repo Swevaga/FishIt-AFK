@@ -45,14 +45,18 @@ Copy and execute these scripts within your executor once the game has loaded:
 
 ### 1. LS Hub (Fish It! Keyless)
 The primary automation script for farming:
-```lua
+
 loadstring(game:HttpGet("[https://rawscripts.net/raw/Fish-It!-LS-Hub-Keyless-71754](https://rawscripts.net/raw/Fish-It!-LS-Hub-Keyless-71754)"))()
+
 2. Infinite Yield FE
 For administrative commands and utility:
 
 Lua
 
 loadstring(game:HttpGet('[https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source](https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source)'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/4LynxX/Lynx/refs/heads/main/LynxxMain.lua"))()
+
+
 🚀 How to Start Farming
 Deploy RDP: Use the VPSBYEVAGA workflow to get your 3-hour RDP session.
 
